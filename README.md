@@ -1,12 +1,3 @@
----
-title: SeoAnalyserGPT
-emoji: 🐨
-colorFrom: indigo
-colorTo: purple
-sdk: streamlit
-sdk_version: 1.21.0
-app_file: app.py
-pinned: false
----
+# SEO Analyzer GPT
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Created using streamlit for Upthrust.io
