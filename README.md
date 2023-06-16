@@ -1,3 +1,9 @@
 # SEO Analyzer GPT
 
-Created using streamlit for Upthrust.io
+## Installing dependencies:
+
+```$ pip install -r requirements.txt```
+
+## How to run the app
+
+```$ streamlit run app.py```
